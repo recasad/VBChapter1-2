@@ -11,4 +11,8 @@
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles lblAnswer.Click
 
     End Sub
+
+    Private Sub btnShowAnswer_Click(sender As Object, e As EventArgs) Handles btnShowAnswer.Click
+        lblAnswer.Visible = True
+    End Sub
 End Class

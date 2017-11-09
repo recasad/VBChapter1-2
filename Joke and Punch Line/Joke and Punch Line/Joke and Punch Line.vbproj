@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6A10B288-A719-4DF1-87D6-4D415C7C4791}</ProjectGuid>
+    <ProjectGuid>{A429667D-9D1C-45E5-B175-A01B8C7B3456}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Latin_Translator.My.MyApplication</StartupObject>
-    <RootNamespace>Latin_Translator</RootNamespace>
-    <AssemblyName>Latin Translator</AssemblyName>
+    <StartupObject>Joke_and_Punch_Line.My.MyApplication</StartupObject>
+    <RootNamespace>Joke_and_Punch_Line</RootNamespace>
+    <AssemblyName>Joke and Punch Line</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -20,7 +20,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Latin Translator.xml</DocumentationFile>
+    <DocumentationFile>Joke and Punch Line.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -30,7 +30,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Latin Translator.xml</DocumentationFile>
+    <DocumentationFile>Joke and Punch Line.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>

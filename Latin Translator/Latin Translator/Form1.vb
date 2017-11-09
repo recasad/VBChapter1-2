@@ -1,9 +1,5 @@
 ﻿Public Class Form1
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles lblLeft.Click
-
-    End Sub
-
     Private Sub btnSinister_Click(sender As Object, e As EventArgs) Handles btnSinister.Click
         lblLeft.Visible = True
     End Sub
